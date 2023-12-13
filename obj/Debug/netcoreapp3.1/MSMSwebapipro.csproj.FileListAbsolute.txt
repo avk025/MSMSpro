@@ -1,0 +1,139 @@
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.exe
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.deps.json
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.runtimeconfig.json
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.runtimeconfig.dev.json
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.pdb
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.csproj.AssemblyReference.cache
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.AssemblyInfoInputs.cache
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.AssemblyInfo.cs
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.csproj.CoreCompileInputs.cache
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\MSMSwebapipro.StaticWebAssets.Manifest.cache
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\MSMSwebapipro.StaticWebAssets.Pack.cache
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MSMSwebapipro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MSMSwebapipro.props
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MSMSwebapipro.props
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MSMSwebapipro.props
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.RazorTargetAssemblyInfo.cache
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.csproj.CopyComplete
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.dll
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.pdb
+C:\Users\haris\OneDrive\Documents\c#\webapi1\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.genruntimeconfig.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\appsettings.json
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.exe
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.deps.json
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.runtimeconfig.json
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.runtimeconfig.dev.json
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\MSMSwebapipro.pdb
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.csproj.AssemblyReference.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.GeneratedMSBuildEditorConfig.editorconfig
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.AssemblyInfoInputs.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.AssemblyInfo.cs
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.csproj.CoreCompileInputs.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.MvcApplicationPartsAssemblyInfo.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\MSMSwebapipro.StaticWebAssets.Manifest.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\MSMSwebapipro.StaticWebAssets.Pack.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MSMSwebapipro.Microsoft.AspNetCore.StaticWebAssets.props
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MSMSwebapipro.props
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MSMSwebapipro.props
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MSMSwebapipro.props
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.RazorTargetAssemblyInfo.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.csproj.CopyComplete
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.pdb
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.genruntimeconfig.cache
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\tfs project\msmsproject\MSMSwebapipro\MSMSwebapipro\obj\Debug\netcoreapp3.1\MSMSwebapipro.MvcApplicationPartsAssemblyInfo.cs
